@@ -12,7 +12,7 @@
 
   <p align="left">
     <br />
-    <a href="">Deployed Link</a>
+    <a href="https://shopify-tailwindcss-clone.netlify.app/">Deployed Link</a>
   </p>
 </div>
 
@@ -79,5 +79,5 @@ After getting familiar with tailwind, making this homepage clone turned out to b
 
 <!-- Project screenshot -->
 
-[project-url]:
-[source-code]:
+[project-url]: https://shopify-tailwindcss-clone.netlify.app/
+[source-code]: https://github.com/nkumar007/Shopify-home-clone#top
